@@ -1,0 +1,13 @@
+ -> Instalar Typescript: npm i typescript -D
+ -> Uma ferramenta de desenvolvimento para usar code runner (f8): npm i ts-node -D
+ ->  eslint: npm i eslint -D
+ -> npm i @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
+ -> npm i prettier eslint-config-prettier eslint-plugin-prettier -D
+ -> iniciar um typescript:  npx tsc --init
+
+ --> Webpack
+ . npm i ts-loader webpack webpack-cli -D
+
+ --> Validator
+ . npm i validator
+ . npm i @types/validator -D (declaration files)

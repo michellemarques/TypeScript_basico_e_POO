@@ -1,0 +1,10 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "npx ts-node --files --transpile-only"  // executa no ambiente local (npx e -- file)
+    },
+        // Auto fix on save
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true,
+            "source.fixAll": true
+        }
+}

@@ -1,0 +1,7 @@
+--> PUBLIC:
+ O atributo ou método que é acessível dentro da classe, fora da classe e em todas as subclasses da classe onde ele for implementado (herança).
+ Não é necessário escrever a palavra public para inferi-lo ao elemento, a não ser que use-se atalho.
+
+--> PRIVATE:
+O atributo ou método só será acessível dentro da classe em que foi criado.
+É excelente para encapsulamento. Para dados "sensíveis".

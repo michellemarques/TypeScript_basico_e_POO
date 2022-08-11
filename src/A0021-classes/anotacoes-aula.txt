@@ -1,0 +1,2 @@
+--> readonly = Não é possível alterar o valor com esse atributo.
+--> public = Pode ser ocultado, ou seja, se nada for declarado, public é o default.

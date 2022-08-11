@@ -1,0 +1,1 @@
+Para passar o conjunto de métodos e atributos aos filhos, usa-se extends nas classes filhos.

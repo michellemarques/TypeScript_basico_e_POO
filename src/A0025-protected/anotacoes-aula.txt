@@ -1,0 +1,2 @@
+PROTECTED
+Pode ser acessado tanto na classe onde foi criado como na(s) subclasse(s) onde foi criada. 

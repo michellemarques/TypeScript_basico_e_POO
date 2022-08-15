@@ -1,0 +1,5 @@
+Abstract é uma class mais genérica, que serve de molde para outras.
+
+Com abstract a classe não pode ser instânciada diretamente, ou seja, só poderá ser instanciada por sub classes (concreta - Guerreira e Mostro).
+
+Métodos abstract não pode ter corpo 

@@ -1,0 +1,3 @@
+Métodos ou atributos estáticos são propriedades que podemos usa-los sem instâciar a classe.
+
+const pessoa2 = Pessoa.criaPessoa('Maria', 'Barbosa') <-< exemplo

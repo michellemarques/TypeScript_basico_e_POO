@@ -1,0 +1,1 @@
+A diferença entre types e intefaces é que interfaces geralmente são utilizada para modelar objetos.
